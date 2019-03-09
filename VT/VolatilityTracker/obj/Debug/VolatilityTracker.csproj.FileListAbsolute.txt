@@ -1,0 +1,124 @@
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\bin\Debug\VolatilityTracker.exe.config
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\bin\Debug\VolatilityTracker.exe
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\bin\Debug\VolatilityTracker.pdb
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\bin\Debug\MaterialDesignColors.dll
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\bin\Debug\MaterialDesignThemes.Wpf.dll
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\bin\Debug\MaterialDesignColors.pdb
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\bin\Debug\MaterialDesignThemes.Wpf.pdb
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\bin\Debug\MaterialDesignThemes.Wpf.xml
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.csprojAssemblyReference.cache
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\obj\Debug\MainWindow.g.cs
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\obj\Debug\App.g.cs
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker_MarkupCompile.cache
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker_MarkupCompile.lref
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\obj\Debug\App.baml
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\obj\Debug\MainWindow.baml
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.g.resources
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.Properties.Resources.resources
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.csproj.GenerateResource.cache
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.csproj.CoreCompileInputs.cache
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.csproj.CopyComplete
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.exe
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.pdb
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.dll
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.Wpf.dll
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.pdb
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.xml
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.Wpf.pdb
+\\dht-fs1\users$\lyang\Desktop\projects\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\bin\Debug\VolatilityTracker.exe.config
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\bin\Debug\VolatilityTracker.exe
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\bin\Debug\VolatilityTracker.pdb
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.dll
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\bin\Debug\MaterialDesignColors.dll
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.pdb
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.xml
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\bin\Debug\MaterialDesignColors.pdb
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.csprojAssemblyReference.cache
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\obj\Debug\MainWindow.g.cs
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\obj\Debug\App.g.cs
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker_MarkupCompile.cache
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker_MarkupCompile.lref
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\obj\Debug\App.baml
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\obj\Debug\MainWindow.baml
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.g.resources
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.Properties.Resources.resources
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.csproj.GenerateResource.cache
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.csproj.CoreCompileInputs.cache
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.csproj.CopyComplete
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.exe
+C:\Users\lyang\Downloads\projects\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.pdb
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\VolatilityTracker.exe.config
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\VolatilityTracker.exe
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\VolatilityTracker.pdb
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.dll
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\MaterialDesignColors.dll
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.pdb
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.xml
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\MaterialDesignColors.pdb
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\MainWindow.g.cs
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\App.g.cs
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker_MarkupCompile.cache
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker_MarkupCompile.lref
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\App.baml
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\MainWindow.baml
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.g.resources
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.Properties.Resources.resources
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.csproj.GenerateResource.cache
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.csproj.CoreCompileInputs.cache
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.csproj.CopyComplete
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.exe
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.pdb
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.csprojAssemblyReference.cache
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\MainWindow.g.cs
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\App.g.cs
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker_MarkupCompile.cache
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker_MarkupCompile.lref
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.exe
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.pdb
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\VolatilityTracker.exe.config
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\VolatilityTracker.exe
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\VolatilityTracker.pdb
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.dll
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\MaterialDesignColors.dll
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.pdb
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.xml
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\MaterialDesignColors.pdb
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\App.baml
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\MainWindow.baml
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.g.resources
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.Properties.Resources.resources
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.csproj.GenerateResource.cache
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.csproj.CoreCompileInputs.cache
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.csproj.CopyComplete
+C:\Users\lyang\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\QY\Google Drive\Technical\Financial Program\VolatilityTracker\VolatilityTracker\obj\Debug\VolatilityTracker.csprojAssemblyReference.cache
